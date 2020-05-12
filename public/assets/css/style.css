@@ -1,0 +1,16 @@
+#bodyLogin{
+    background: url("../img/gray-hand-tool-1319459.jpg") no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+#loginbox, #signupbox{
+    position: absolute;
+    top: 50px;
+}
+
+.login-dark {
+    background: linear-gradient(145deg, #95999c, #252b2d);
+}
